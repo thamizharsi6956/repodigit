@@ -1,7 +1,8 @@
-def same
-return (x)
+##commitment from github .version 3
+def commit():
+pass
 
 
 
-def multiply(x,y):
-       return x*y    
+
+           
