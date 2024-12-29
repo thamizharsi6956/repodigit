@@ -1,0 +1,7 @@
+def same
+return (x)
+
+
+
+def multiply(x,y):
+       return x*y    
